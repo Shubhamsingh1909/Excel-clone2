@@ -1,0 +1,432 @@
+{
+    "rupesh": {
+        "4": {
+            "2": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#16A085"
+            }
+        },
+        "6": {
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            }
+        },
+        "9": {
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            }
+        }
+    },
+    "raman": {
+        "0": {
+            "0": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#fff"
+            }
+        },
+        "5": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            }
+        },
+        "6": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": true,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#C0392B"
+            }
+        }
+    },
+    "ravi": {
+        "4": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            }
+        },
+        "5": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            }
+        },
+        "6": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            }
+        },
+        "7": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            }
+        },
+        "8": {
+            "3": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": true,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#F1C40F",
+                "bgcolor": "#2ECC71"
+            }
+        }
+    },
+    "rashi": {
+        "6": {
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#F1C40F"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#F1C40F"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#F1C40F"
+            }
+        },
+        "7": {
+            "4": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#F1C40F"
+            },
+            "5": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#F1C40F"
+            },
+            "6": {
+                "font-family": "Noto Sans",
+                "font-size": 14,
+                "text": "",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "alignment": "left",
+                "color": "#444",
+                "bgcolor": "#F1C40F"
+            }
+        }
+    }
+}
